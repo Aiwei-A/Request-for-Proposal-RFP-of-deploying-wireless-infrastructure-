@@ -116,7 +116,7 @@ All costs are listed in Canadian Dollars (CAD). Final pricing may vary depending
 
 ### Hardware
 
-- 12 x Wi-Fi 6 enterprise-grade access points @ $400 = **$4,800**
+- 12 x Wi-Fi 6 enterprise-grade access points $400 = **$4,800**
 - 1 x 24-port PoE+ network switch = **$1,000**
 - Structured cabling and installation materials = **$600**
 
